@@ -1,0 +1,17 @@
+{
+    "self": "https://monsterprajju.atlassian.net/rest/api/3/project/SR/version?maxResults=50&startAt=0",
+    "maxResults": 50,
+    "startAt": 0,
+    "total": 1,
+    "isLast": true,
+    "values": [
+        {
+            "self": "https://monsterprajju.atlassian.net/rest/api/3/version/10000",
+            "id": "10000",
+            "name": "SDETV1.1",
+            "archived": false,
+            "released": false,
+            "projectId": 10000
+        }
+    ]
+}

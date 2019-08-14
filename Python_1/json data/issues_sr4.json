@@ -1,0 +1,225 @@
+{
+    "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+    "id": "10003",
+    "self": "https://monsterprajju.atlassian.net/rest/api/3/issue/10003",
+    "key": "SR-4",
+    "fields": {
+        "statuscategorychangedate": "2019-08-08T17:41:30.540+0530",
+        "issuetype": {
+            "self": "https://monsterprajju.atlassian.net/rest/api/3/issuetype/10102",
+            "id": "10102",
+            "description": "The sub-task of the issue",
+            "iconUrl": "https://monsterprajju.atlassian.net/secure/viewavatar?size=medium&avatarId=10316&avatarType=issuetype",
+            "name": "Sub-task",
+            "subtask": true,
+            "avatarId": 10316
+        },
+        "parent": {
+            "id": "10001",
+            "key": "SR-2",
+            "self": "https://monsterprajju.atlassian.net/rest/api/3/issue/10001",
+            "fields": {
+                "summary": "Learn JIRA",
+                "status": {
+                    "self": "https://monsterprajju.atlassian.net/rest/api/3/status/10000",
+                    "description": "",
+                    "iconUrl": "https://monsterprajju.atlassian.net/",
+                    "name": "To Do",
+                    "id": "10000",
+                    "statusCategory": {
+                        "self": "https://monsterprajju.atlassian.net/rest/api/3/statuscategory/2",
+                        "id": 2,
+                        "key": "new",
+                        "colorName": "blue-gray",
+                        "name": "To Do"
+                    }
+                },
+                "priority": {
+                    "self": "https://monsterprajju.atlassian.net/rest/api/3/priority/3",
+                    "iconUrl": "https://monsterprajju.atlassian.net/images/icons/priorities/medium.svg",
+                    "name": "Medium",
+                    "id": "3"
+                },
+                "issuetype": {
+                    "self": "https://monsterprajju.atlassian.net/rest/api/3/issuetype/10100",
+                    "id": "10100",
+                    "description": "Stories track functionality or features expressed as user goals.",
+                    "iconUrl": "https://monsterprajju.atlassian.net/secure/viewavatar?size=medium&avatarId=10315&avatarType=issuetype",
+                    "name": "Story",
+                    "subtask": false,
+                    "avatarId": 10315
+                }
+            }
+        },
+        "timespent": null,
+        "project": {
+            "self": "https://monsterprajju.atlassian.net/rest/api/3/project/10000",
+            "id": "10000",
+            "key": "SR",
+            "name": "SDET_RD",
+            "projectTypeKey": "software",
+            "simplified": false,
+            "avatarUrls": {
+                "48x48": "https://monsterprajju.atlassian.net/secure/projectavatar?pid=10000&avatarId=10401",
+                "24x24": "https://monsterprajju.atlassian.net/secure/projectavatar?size=small&s=small&pid=10000&avatarId=10401",
+                "16x16": "https://monsterprajju.atlassian.net/secure/projectavatar?size=xsmall&s=xsmall&pid=10000&avatarId=10401",
+                "32x32": "https://monsterprajju.atlassian.net/secure/projectavatar?size=medium&s=medium&pid=10000&avatarId=10401"
+            }
+        },
+        "fixVersions": [],
+        "aggregatetimespent": null,
+        "resolution": null,
+        "resolutiondate": null,
+        "workratio": -1,
+        "watches": {
+            "self": "https://monsterprajju.atlassian.net/rest/api/3/issue/SR-4/watchers",
+            "watchCount": 1,
+            "isWatching": true
+        },
+        "lastViewed": "2019-08-12T16:47:25.817+0530",
+        "created": "2019-08-08T17:41:30.356+0530",
+        "customfield_10020": [
+            "com.atlassian.greenhopper.service.sprint.Sprint@3d7c0f6[id=1,rapidViewId=1,state=ACTIVE,name=SR Sprint 1,goal=We need to complete 2 user stories at the end of the time,startDate=2019-08-08T12:10:24.704Z,endDate=2019-08-22T12:10:00.000Z,completeDate=<null>,sequence=1]"
+        ],
+        "customfield_10021": null,
+        "priority": {
+            "self": "https://monsterprajju.atlassian.net/rest/api/3/priority/3",
+            "iconUrl": "https://monsterprajju.atlassian.net/images/icons/priorities/medium.svg",
+            "name": "Medium",
+            "id": "3"
+        },
+        "customfield_10100": null,
+        "customfield_10101": null,
+        "labels": [],
+        "customfield_10016": null,
+        "customfield_10017": null,
+        "customfield_10018": {
+            "hasEpicLinkFieldDependency": false,
+            "showField": false,
+            "nonEditableReason": {
+                "reason": "PLUGIN_LICENSE_ERROR",
+                "message": "Portfolio for Jira must be licensed for the Parent Link to be available."
+            }
+        },
+        "customfield_10019": "0|i0000b:",
+        "timeestimate": null,
+        "aggregatetimeoriginalestimate": null,
+        "versions": [],
+        "issuelinks": [],
+        "assignee": {
+            "self": "https://monsterprajju.atlassian.net/rest/api/3/user?accountId=557058%3Ac15b5fae-6d91-4595-b4ae-61f830d6ed56",
+            "name": "admin",
+            "key": "admin",
+            "accountId": "557058:c15b5fae-6d91-4595-b4ae-61f830d6ed56",
+            "emailAddress": "monsterprajju2418@gmail.com",
+            "avatarUrls": {
+                "48x48": "https://secure.gravatar.com/avatar/5f491dbc5df7d648323a1725a1c3671b?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FMP-6.png&size=48&s=48",
+                "24x24": "https://secure.gravatar.com/avatar/5f491dbc5df7d648323a1725a1c3671b?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FMP-6.png&size=24&s=24",
+                "16x16": "https://secure.gravatar.com/avatar/5f491dbc5df7d648323a1725a1c3671b?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FMP-6.png&size=16&s=16",
+                "32x32": "https://secure.gravatar.com/avatar/5f491dbc5df7d648323a1725a1c3671b?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FMP-6.png&size=32&s=32"
+            },
+            "displayName": "Monster prajju",
+            "active": true,
+            "timeZone": "Asia/Calcutta",
+            "accountType": "atlassian"
+        },
+        "updated": "2019-08-08T17:44:31.625+0530",
+        "status": {
+            "self": "https://monsterprajju.atlassian.net/rest/api/3/status/10000",
+            "description": "",
+            "iconUrl": "https://monsterprajju.atlassian.net/",
+            "name": "To Do",
+            "id": "10000",
+            "statusCategory": {
+                "self": "https://monsterprajju.atlassian.net/rest/api/3/statuscategory/2",
+                "id": 2,
+                "key": "new",
+                "colorName": "blue-gray",
+                "name": "To Do"
+            }
+        },
+        "components": [],
+        "timeoriginalestimate": null,
+        "description": null,
+        "customfield_10010": null,
+        "customfield_10014": null,
+        "customfield_10015": null,
+        "timetracking": {},
+        "customfield_10005": null,
+        "customfield_10006": null,
+        "security": null,
+        "customfield_10007": null,
+        "customfield_10008": null,
+        "attachment": [],
+        "customfield_10009": null,
+        "aggregatetimeestimate": null,
+        "summary": "Review the documents regarding jira",
+        "creator": {
+            "self": "https://monsterprajju.atlassian.net/rest/api/3/user?accountId=557058%3Ac15b5fae-6d91-4595-b4ae-61f830d6ed56",
+            "name": "admin",
+            "key": "admin",
+            "accountId": "557058:c15b5fae-6d91-4595-b4ae-61f830d6ed56",
+            "emailAddress": "monsterprajju2418@gmail.com",
+            "avatarUrls": {
+                "48x48": "https://secure.gravatar.com/avatar/5f491dbc5df7d648323a1725a1c3671b?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FMP-6.png&size=48&s=48",
+                "24x24": "https://secure.gravatar.com/avatar/5f491dbc5df7d648323a1725a1c3671b?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FMP-6.png&size=24&s=24",
+                "16x16": "https://secure.gravatar.com/avatar/5f491dbc5df7d648323a1725a1c3671b?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FMP-6.png&size=16&s=16",
+                "32x32": "https://secure.gravatar.com/avatar/5f491dbc5df7d648323a1725a1c3671b?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FMP-6.png&size=32&s=32"
+            },
+            "displayName": "Monster prajju",
+            "active": true,
+            "timeZone": "Asia/Calcutta",
+            "accountType": "atlassian"
+        },
+        "subtasks": [],
+        "reporter": {
+            "self": "https://monsterprajju.atlassian.net/rest/api/3/user?accountId=557058%3Ac15b5fae-6d91-4595-b4ae-61f830d6ed56",
+            "name": "admin",
+            "key": "admin",
+            "accountId": "557058:c15b5fae-6d91-4595-b4ae-61f830d6ed56",
+            "emailAddress": "monsterprajju2418@gmail.com",
+            "avatarUrls": {
+                "48x48": "https://secure.gravatar.com/avatar/5f491dbc5df7d648323a1725a1c3671b?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FMP-6.png&size=48&s=48",
+                "24x24": "https://secure.gravatar.com/avatar/5f491dbc5df7d648323a1725a1c3671b?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FMP-6.png&size=24&s=24",
+                "16x16": "https://secure.gravatar.com/avatar/5f491dbc5df7d648323a1725a1c3671b?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FMP-6.png&size=16&s=16",
+                "32x32": "https://secure.gravatar.com/avatar/5f491dbc5df7d648323a1725a1c3671b?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FMP-6.png&size=32&s=32"
+            },
+            "displayName": "Monster prajju",
+            "active": true,
+            "timeZone": "Asia/Calcutta",
+            "accountType": "atlassian"
+        },
+        "aggregateprogress": {
+            "progress": 0,
+            "total": 0
+        },
+        "customfield_10000": "{}",
+        "customfield_10001": null,
+        "customfield_10002": null,
+        "customfield_10003": null,
+        "customfield_10004": null,
+        "environment": null,
+        "duedate": null,
+        "progress": {
+            "progress": 0,
+            "total": 0
+        },
+        "comment": {
+            "comments": [],
+            "maxResults": 0,
+            "total": 0,
+            "startAt": 0
+        },
+        "votes": {
+            "self": "https://monsterprajju.atlassian.net/rest/api/3/issue/SR-4/votes",
+            "votes": 0,
+            "hasVoted": false
+        },
+        "worklog": {
+            "startAt": 0,
+            "maxResults": 20,
+            "total": 0,
+            "worklogs": []
+        }
+    }
+}

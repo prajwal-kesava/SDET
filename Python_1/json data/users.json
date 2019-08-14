@@ -1,0 +1,109 @@
+[
+    {
+        "self": "https://monsterprajju.atlassian.net/rest/api/3/user?accountId=557058:0867a421-a9ee-4659-801a-bc0ee4a4487e",
+        "accountId": "557058:0867a421-a9ee-4659-801a-bc0ee4a4487e",
+        "accountType": "app",
+        "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/ab3787cd0c16633ae050dff9d5ab15fc?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-0.png&size=48&s=48",
+            "24x24": "https://secure.gravatar.com/avatar/ab3787cd0c16633ae050dff9d5ab15fc?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-0.png&size=24&s=24",
+            "16x16": "https://secure.gravatar.com/avatar/ab3787cd0c16633ae050dff9d5ab15fc?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-0.png&size=16&s=16",
+            "32x32": "https://secure.gravatar.com/avatar/ab3787cd0c16633ae050dff9d5ab15fc?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-0.png&size=32&s=32"
+        },
+        "displayName": "Slack",
+        "active": true
+    },
+    {
+        "self": "https://monsterprajju.atlassian.net/rest/api/3/user?accountId=557058:950f9f5b-3d6d-4e1d-954a-21367ae9ac75",
+        "accountId": "557058:950f9f5b-3d6d-4e1d-954a-21367ae9ac75",
+        "accountType": "app",
+        "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/726e9dfb98dfab7231aca0392486818d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FJW-2.png&size=48&s=48",
+            "24x24": "https://secure.gravatar.com/avatar/726e9dfb98dfab7231aca0392486818d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FJW-2.png&size=24&s=24",
+            "16x16": "https://secure.gravatar.com/avatar/726e9dfb98dfab7231aca0392486818d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FJW-2.png&size=16&s=16",
+            "32x32": "https://secure.gravatar.com/avatar/726e9dfb98dfab7231aca0392486818d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FJW-2.png&size=32&s=32"
+        },
+        "displayName": "Jira Service Desk Widget",
+        "active": true
+    },
+    {
+        "self": "https://monsterprajju.atlassian.net/rest/api/3/user?accountId=5cf112d31552030f1e3a5905",
+        "accountId": "5cf112d31552030f1e3a5905",
+        "accountType": "app",
+        "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/92dbb0e2c4bdf7a4e079ce410ddb6029?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FJS-2.png&size=48&s=48",
+            "24x24": "https://secure.gravatar.com/avatar/92dbb0e2c4bdf7a4e079ce410ddb6029?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FJS-2.png&size=24&s=24",
+            "16x16": "https://secure.gravatar.com/avatar/92dbb0e2c4bdf7a4e079ce410ddb6029?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FJS-2.png&size=16&s=16",
+            "32x32": "https://secure.gravatar.com/avatar/92dbb0e2c4bdf7a4e079ce410ddb6029?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FJS-2.png&size=32&s=32"
+        },
+        "displayName": "Jira Spreadsheets",
+        "active": true
+    },
+    {
+        "self": "https://monsterprajju.atlassian.net/rest/api/3/user?accountId=5ac5326a95d30150501e5ff4",
+        "accountId": "5ac5326a95d30150501e5ff4",
+        "accountType": "app",
+        "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/5e3e172bcea3a4596dfeb38649d70a0e?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FJW-1.png&size=48&s=48",
+            "24x24": "https://secure.gravatar.com/avatar/5e3e172bcea3a4596dfeb38649d70a0e?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FJW-1.png&size=24&s=24",
+            "16x16": "https://secure.gravatar.com/avatar/5e3e172bcea3a4596dfeb38649d70a0e?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FJW-1.png&size=16&s=16",
+            "32x32": "https://secure.gravatar.com/avatar/5e3e172bcea3a4596dfeb38649d70a0e?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FJW-1.png&size=32&s=32"
+        },
+        "displayName": "Jira Cloud for Workplace",
+        "active": true
+    },
+    {
+        "self": "https://monsterprajju.atlassian.net/rest/api/3/user?accountId=5d384fccbeedf60c26aa4aaf",
+        "accountId": "5d384fccbeedf60c26aa4aaf",
+        "accountType": "atlassian",
+        "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/eb819c7fddd81068241afa867fa40428?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FP-4.png&size=48&s=48",
+            "24x24": "https://secure.gravatar.com/avatar/eb819c7fddd81068241afa867fa40428?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FP-4.png&size=24&s=24",
+            "16x16": "https://secure.gravatar.com/avatar/eb819c7fddd81068241afa867fa40428?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FP-4.png&size=16&s=16",
+            "32x32": "https://secure.gravatar.com/avatar/eb819c7fddd81068241afa867fa40428?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FP-4.png&size=32&s=32"
+        },
+        "displayName": "prajwal",
+        "active": true,
+        "locale": "en_US"
+    },
+    {
+        "self": "https://monsterprajju.atlassian.net/rest/api/3/user?accountId=557058:214cdd6a-ff93-4d8b-838b-62dfcf1a2a71",
+        "accountId": "557058:214cdd6a-ff93-4d8b-838b-62dfcf1a2a71",
+        "accountType": "app",
+        "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/5f14d72ea4c4ebb05e46175191444f71?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FT-2.png&size=48&s=48",
+            "24x24": "https://secure.gravatar.com/avatar/5f14d72ea4c4ebb05e46175191444f71?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FT-2.png&size=24&s=24",
+            "16x16": "https://secure.gravatar.com/avatar/5f14d72ea4c4ebb05e46175191444f71?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FT-2.png&size=16&s=16",
+            "32x32": "https://secure.gravatar.com/avatar/5f14d72ea4c4ebb05e46175191444f71?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FT-2.png&size=32&s=32"
+        },
+        "displayName": "Trello",
+        "active": true
+    },
+    {
+        "self": "https://monsterprajju.atlassian.net/rest/api/3/user?accountId=5b6c7b3afbc68529c6c47967",
+        "accountId": "5b6c7b3afbc68529c6c47967",
+        "accountType": "app",
+        "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/1ac15886f45477da1a8230e3c52df31e?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSJ-2.png&size=48&s=48",
+            "24x24": "https://secure.gravatar.com/avatar/1ac15886f45477da1a8230e3c52df31e?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSJ-2.png&size=24&s=24",
+            "16x16": "https://secure.gravatar.com/avatar/1ac15886f45477da1a8230e3c52df31e?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSJ-2.png&size=16&s=16",
+            "32x32": "https://secure.gravatar.com/avatar/1ac15886f45477da1a8230e3c52df31e?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSJ-2.png&size=32&s=32"
+        },
+        "displayName": "Statuspage for Jira",
+        "active": true
+    },
+    {
+        "self": "https://monsterprajju.atlassian.net/rest/api/3/user?accountId=557058:c15b5fae-6d91-4595-b4ae-61f830d6ed56",
+        "accountId": "557058:c15b5fae-6d91-4595-b4ae-61f830d6ed56",
+        "accountType": "atlassian",
+        "emailAddress": "monsterprajju2418@gmail.com",
+        "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/5f491dbc5df7d648323a1725a1c3671b?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FMP-6.png&size=48&s=48",
+            "24x24": "https://secure.gravatar.com/avatar/5f491dbc5df7d648323a1725a1c3671b?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FMP-6.png&size=24&s=24",
+            "16x16": "https://secure.gravatar.com/avatar/5f491dbc5df7d648323a1725a1c3671b?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FMP-6.png&size=16&s=16",
+            "32x32": "https://secure.gravatar.com/avatar/5f491dbc5df7d648323a1725a1c3671b?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FMP-6.png&size=32&s=32"
+        },
+        "displayName": "Monster prajju",
+        "active": true,
+        "locale": "en_US"
+    }
+]

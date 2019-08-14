@@ -1,0 +1,38 @@
+[
+    {
+        "self": "https://monsterprajju.atlassian.net/rest/api/3/user?accountId=557058:c15b5fae-6d91-4595-b4ae-61f830d6ed56",
+        "key": "admin",
+        "accountId": "557058:c15b5fae-6d91-4595-b4ae-61f830d6ed56",
+        "accountType": "atlassian",
+        "name": "admin",
+        "emailAddress": "monsterprajju2418@gmail.com",
+        "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/5f491dbc5df7d648323a1725a1c3671b?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FMP-6.png&size=48&s=48",
+            "24x24": "https://secure.gravatar.com/avatar/5f491dbc5df7d648323a1725a1c3671b?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FMP-6.png&size=24&s=24",
+            "16x16": "https://secure.gravatar.com/avatar/5f491dbc5df7d648323a1725a1c3671b?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FMP-6.png&size=16&s=16",
+            "32x32": "https://secure.gravatar.com/avatar/5f491dbc5df7d648323a1725a1c3671b?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FMP-6.png&size=32&s=32"
+        },
+        "displayName": "Monster prajju",
+        "active": true,
+        "timeZone": "Asia/Calcutta",
+        "locale": "en_US"
+    },
+    {
+        "self": "https://monsterprajju.atlassian.net/rest/api/3/user?accountId=5d384fccbeedf60c26aa4aaf",
+        "key": "kesava.prajwal369",
+        "accountId": "5d384fccbeedf60c26aa4aaf",
+        "accountType": "atlassian",
+        "name": "kesava.prajwal369",
+        "emailAddress": "",
+        "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/eb819c7fddd81068241afa867fa40428?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FP-4.png&size=48&s=48",
+            "24x24": "https://secure.gravatar.com/avatar/eb819c7fddd81068241afa867fa40428?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FP-4.png&size=24&s=24",
+            "16x16": "https://secure.gravatar.com/avatar/eb819c7fddd81068241afa867fa40428?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FP-4.png&size=16&s=16",
+            "32x32": "https://secure.gravatar.com/avatar/eb819c7fddd81068241afa867fa40428?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FP-4.png&size=32&s=32"
+        },
+        "displayName": "prajwal",
+        "active": true,
+        "timeZone": "Asia/Calcutta",
+        "locale": "en_US"
+    }
+]

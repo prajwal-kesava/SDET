@@ -1,0 +1,20 @@
+[
+    {
+        "expand": "description,lead,issueTypes,url,projectKeys,permissions",
+        "self": "https://monsterprajju.atlassian.net/rest/api/3/project/10000",
+        "id": "10000",
+        "key": "SR",
+        "name": "SDET_RD",
+        "avatarUrls": {
+            "48x48": "https://monsterprajju.atlassian.net/secure/projectavatar?pid=10000&avatarId=10401",
+            "24x24": "https://monsterprajju.atlassian.net/secure/projectavatar?size=small&s=small&pid=10000&avatarId=10401",
+            "16x16": "https://monsterprajju.atlassian.net/secure/projectavatar?size=xsmall&s=xsmall&pid=10000&avatarId=10401",
+            "32x32": "https://monsterprajju.atlassian.net/secure/projectavatar?size=medium&s=medium&pid=10000&avatarId=10401"
+        },
+        "projectTypeKey": "software",
+        "simplified": false,
+        "style": "classic",
+        "isPrivate": false,
+        "properties": {}
+    }
+]
